@@ -1,0 +1,6 @@
+Enter name:
+Noah
+Enter a message:
+I am hungry
+
+ NOah: hello

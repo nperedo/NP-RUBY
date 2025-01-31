@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Noah",
+    "phone": "671-1234",
+    "email": "noah@example.com"
+  },
+  {
+    "name": "Leon",
+    "phone": "671-5678",
+    "email": "leon@example.com"
+  }
+][
+  {
+    "name": "Noah",
+    "phone": "671-1234",
+    "email": "noah@example.com"
+  },
+  {
+    "name": "Jon",
+    "phone": "671-5678",
+    "email": "leon@example.com"
+  }
+][
+  {
+    "name": "Noah",
+    "phone": "671-1234",
+    "email": "noah@example.com"
+  },
+  {
+    "name": "Jon",
+    "phone": "671-5678",
+    "email": "leon@example.com"
+  }
+]
